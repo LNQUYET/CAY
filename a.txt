@@ -1,0 +1,4 @@
+1. create client->GET()->token(header)$token(content)->đưa vào vịnh trí tương ứng
+2. client->POST->repone(set-cookie&cookie1)->header
+3. client->GET
+
